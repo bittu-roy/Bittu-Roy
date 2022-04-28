@@ -47,7 +47,3 @@
 
 </details>
 
-
-[twitter]: https://twitter.com/Rajarsheeroy2
-[instagram]: https://instagram.com/rajarshee_03
-[linkedin]: https://linkedin.com/in/rajarshee-roy-01628a228
