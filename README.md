@@ -30,15 +30,7 @@
 ---
 
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mongodb-developer/prisma-nextjs-example/pull/1) in [mongodb-developer/prisma-nextjs-example](https://github.com/mongodb-developer/prisma-nextjs-example)
-2. 💪 Opened PR [#1](https://github.com/mongodb-developer/prisma-nextjs-example/pull/1) in [mongodb-developer/prisma-nextjs-example](https://github.com/mongodb-developer/prisma-nextjs-example)
-3. ❗️ Closed issue [#40](https://github.com/codeSTACKr/minter-dapp/issues/40) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-4. 🗣 Commented on [#40](https://github.com/codeSTACKr/minter-dapp/issues/40) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-5. 🗣 Commented on [#38](https://github.com/codeSTACKr/minter-dapp/issues/38) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-<!--END_SECTION:activity-->
 
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
