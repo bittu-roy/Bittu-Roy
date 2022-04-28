@@ -1,0 +1,55 @@
+# Hi there, I'm Rajarshee 👋 
+
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRajarsheeroy2&screen_name=Rajarsheeroy2)
+ 
+
+- 🔭 I’m currently working on Full WebStack Development
+- 🌱 I’m currently learning Java, Python.
+- 👯 I’m looking to collaborate on Full WebStack Development Projects
+- 🤔 I’m looking for help with Php, Ruby
+- 💬 Ask me about anything
+- 📫 How to reach me: bitturoy32001@gmail.com
+
+
+### Connect with me:
+
+[![website](./img/twitter-light.svg)](https://twitter.com/RajarsheeRoy2#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/RajarsheeRoy2#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/rajarshee-roy-01628a228#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/rajarshee-roy-01628a228#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/rajarshee_03#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/rajarshee_03#gh-dark-mode-only)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<br />
+<br />
+
+---
+
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/mongodb-developer/prisma-nextjs-example/pull/1) in [mongodb-developer/prisma-nextjs-example](https://github.com/mongodb-developer/prisma-nextjs-example)
+2. 💪 Opened PR [#1](https://github.com/mongodb-developer/prisma-nextjs-example/pull/1) in [mongodb-developer/prisma-nextjs-example](https://github.com/mongodb-developer/prisma-nextjs-example)
+3. ❗️ Closed issue [#40](https://github.com/codeSTACKr/minter-dapp/issues/40) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
+4. 🗣 Commented on [#40](https://github.com/codeSTACKr/minter-dapp/issues/40) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
+5. 🗣 Commented on [#38](https://github.com/codeSTACKr/minter-dapp/issues/38) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="bittu-roy GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bittu-roy&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
+
+
+[twitter]: https://twitter.com/Rajarsheeroy2
+[instagram]: https://instagram.com/rajarshee_03
+[linkedin]: https://linkedin.com/in/rajarshee-roy-01628a228
